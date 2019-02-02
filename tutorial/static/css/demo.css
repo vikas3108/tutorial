@@ -1,0 +1,21 @@
+body{
+  background: url(https://images.unsplash.com/photo-1502951682449-e5b93545d46e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+input,textarea{
+  color:white;
+  background:black;
+}
+#ch{
+  color:black;
+
+}
+#cd{
+  color:black;
+
+}
+a{
+  color: #ffffb3;
+}
